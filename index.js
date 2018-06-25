@@ -33,3 +33,7 @@ function dec(n) {
 function makeInt(n) {
   parseInt('2', 10)
 }
+
+function makeInt(n) {
+  parseInt('2.33333', 10)
+}
