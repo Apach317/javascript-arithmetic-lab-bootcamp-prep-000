@@ -35,3 +35,7 @@ function makeInt(n) {
   return n
 }
 
+function makeInt(n) {
+  parseInt('2.33333', 10)
+}
+
