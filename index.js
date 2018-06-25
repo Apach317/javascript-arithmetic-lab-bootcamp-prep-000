@@ -35,8 +35,8 @@ function makeInt(n) {
   return n
 }
 
-function makeInt(n) {
-  perserveDecimal('2.33333', 10)
+function preserveDecimal(n) {
+  parseFloat('2.33333', 10)
 }
 
 function makeInt(n) {
