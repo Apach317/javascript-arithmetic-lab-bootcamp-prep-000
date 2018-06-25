@@ -40,6 +40,6 @@ function makeInt(n) {
 }
 
 function perserveDecimal(n) {
-  parseInt('nothing!', 10)
+  parseFloat('nothing!', 10)
 }
 
