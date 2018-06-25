@@ -48,5 +48,5 @@ divideBy3()
 console.log(number)
 
 function inc(n) {
-  return (n++)
+  return number++
 }
