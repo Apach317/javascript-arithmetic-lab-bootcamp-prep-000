@@ -36,10 +36,10 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  parseInt('2.33333', 10)
+  perserveDecimal('2.33333', 10)
 }
 
-function perserveDecimal(n) {
+function makeInt(n) {
   parseFloat('nothing!', 10)
 }
 
