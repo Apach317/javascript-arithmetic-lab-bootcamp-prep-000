@@ -39,7 +39,7 @@ function makeInt(n) {
   parseInt('2.33333', 10)
 }
 
-function makeInt(n) {
+function perserveDecimal(n) {
   parseInt('nothing!', 10)
 }
 
