@@ -21,5 +21,6 @@ divide(5.0, 2.5);
 
 
 function inc(n) {
-  return n++
+  n++
+  return n
 }
