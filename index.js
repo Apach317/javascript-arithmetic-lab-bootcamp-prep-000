@@ -35,15 +35,3 @@ function makeInt(n) {
   return n
 }
 
-function makeInt(n) {
-  parseFloat('nothing!', 10)
-  return n
-}
-
-function makeInt(n) {
-  parseFloat('nothing!', 10)
-}
-
-function makeInt(n) {
-  parseFloat('nothing!', 10)
-}
