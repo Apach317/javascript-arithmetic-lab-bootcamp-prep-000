@@ -30,9 +30,8 @@ function dec(n) {
   return n
 }
 
-function makeInt(n, 10) {
-  parseInt('2')
+function makeInt(n) {
+  parseInt('2', 10)
   return n
 }
 
-function makeInt(n)
